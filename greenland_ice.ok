@@ -1,0 +1,15 @@
+
+{
+  "name": "greenland ice",
+  "src": [
+    "greenland_ice.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
